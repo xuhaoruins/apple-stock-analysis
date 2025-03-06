@@ -8,8 +8,7 @@ import {
   YAxis,
   CartesianGrid,
   Tooltip,
-  Legend,
-  Area
+  Legend
 } from 'recharts';
 
 const StockChart = ({ data }) => {

@@ -9,8 +9,6 @@ import {
   CartesianGrid, 
   Tooltip, 
   Legend,
-  AreaChart,
-  Area,
   ReferenceLine
 } from 'recharts';
 import { fetchHistoricalData, analyzeStockTrends } from '../utils/dataService';

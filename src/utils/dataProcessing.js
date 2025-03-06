@@ -40,7 +40,6 @@ export const calculateMetrics = (data) => {
   let maxPrice = data[0].high;
   let minPrice = data[0].low;
   let totalVolume = 0;
-  let totalChange = 0;
   let priceChanges = [];
   
   // First and last closing prices for overall price increase

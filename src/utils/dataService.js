@@ -1,7 +1,6 @@
 /**
  * Service to fetch historical stock data from APIs
  */
-import axios from 'axios';
 import { processStockData } from './dataProcessing';
 
 // Yahoo Finance API proxy or Alpha Vantage could be used here
